@@ -1,0 +1,11 @@
+student_id,name,course,age,marks,city,phone,grade
+1,Asha,Maths,21,88.0,Kochi,,A
+2,Binu,Physics,22,76.0,Kozhikode,9876543210,B
+3,Cathy,Maths,20,,Kochi,9876543211,A
+4,Deepak,Computer Science,23,91.0,Kannur,9876543212,A
+5,Esha,Physics,21,67.0,Kollam,,C
+6,Farhan,Computer Science,22,84.0,Kochi,9876543213,B
+7,Gita,Maths,20,95.0,Kozhikode,9876543214,A
+8,Hari,Physics,24,,Kannur,9876543215,C
+9,Isha,Computer Science,21,73.0,Kollam,,B
+10,Jithin,Maths,22,88.0,Kochi,9876543216,A

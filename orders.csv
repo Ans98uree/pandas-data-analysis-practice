@@ -1,0 +1,16 @@
+order_id,employee_id,product,category,city,quantity,unit_price,membership,status,order_date,total_amount
+1001,101,Laptop,Electronics,Kochi,2,55000,Gold,Completed,2026-01-05,110000
+1002,103,Keyboard,Electronics,Kochi,3,1800,Silver,Completed,2026-01-07,5400
+1003,102,Office Chair,Furniture,Bangalore,2,7500,Gold,Cancelled,2026-01-10,15000
+1004,105,Desk,Furniture,Bangalore,1,12000,Silver,Completed,2026-01-12,12000
+1005,107,Monitor,Electronics,Chennai,2,18000,Gold,Completed,2026-01-15,36000
+1006,110,Table Lamp,Furniture,Kochi,4,2200,Gold,Completed,2026-01-18,8800
+1007,104,Mouse,Electronics,Chennai,5,900,Silver,Cancelled,2026-01-20,4500
+1008,106,Bookshelf,Furniture,Kochi,1,9500,Silver,Completed,2026-01-22,9500
+1009,101,Headphones,Electronics,Kochi,2,3500,Gold,Completed,2026-01-25,7000
+1010,109,Printer,Electronics,Bangalore,1,16000,Silver,Completed,2026-01-27,16000
+1011,107,Desk,Furniture,Chennai,2,12000,Gold,Completed,2026-02-02,24000
+1012,112,Keyboard,Electronics,Kochi,4,1800,Gold,Cancelled,2026-02-05,7200
+1013,103,Monitor,Electronics,Kochi,1,18000,Silver,Completed,2026-02-08,18000
+1014,110,Office Chair,Furniture,Kochi,3,7500,Gold,Completed,2026-02-11,22500
+1015,105,Laptop,Electronics,Bangalore,1,55000,Silver,Completed,2026-02-14,55000

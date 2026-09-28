@@ -1,0 +1,13 @@
+employee_id,name,department,city,age,gender,salary,experience,status,hire_date
+101,Anu,Data Science,Kochi,23,Female,45000,1.2,Active,2025-01-15
+102,Rahul,Data Science,Bangalore,28,Male,75000,4.0,Inactive,2022-06-10
+103,Meera,Python,Kochi,26,Female,62000,3.0,Active,2023-02-20
+104,Arun,Testing,Chennai,31,Male,58000,5.0,Active,2021-09-12
+105,Riya,Python,Bangalore,24,Female,52000,2.0,Active,2024-03-05
+106,Vimal,Testing,Kochi,29,Male,68000,4.5,Inactive,2022-11-18
+107,Nirmal,Data Science,Chennai,35,Male,92000,8.0,Active,2018-07-22
+108,Diya,Python,Kochi,22,Female,48000,1.0,Active,2025-05-14
+109,Sanjay,Testing,Bangalore,27,Male,61000,3.5,Active,2023-10-01
+110,Fathima,Data Science,Kochi,30,Female,83000,6.0,Active,2020-04-11
+111,Joel,Python,Chennai,33,Male,70000,7.0,Inactive,2019-12-09
+112,Lakshmi,Testing,Kochi,25,Female,56000,2.5,Active,2024-08-19
